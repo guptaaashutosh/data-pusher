@@ -37,7 +37,7 @@ data-pusher/
 ### Installation
 
 ```bash
-git clone https://github.com/customerLabs/data-pusher.git
+git clone https://github.com/guptaaashutosh/data-pusher.git
 cd data-pusher
 npm install
 ```
