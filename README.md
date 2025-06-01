@@ -14,7 +14,6 @@ data-pusher/
 │   ├── app.js         # Entry point
 │   ├── config/          # Configuration handling
 │   ├── destinations/    # Destination connectors (e.g., APIs, databases)
-│   ├── sources/         # Data source connectors
 │   └── utils/           # Utility functions
 ├── .config/             # Configuration files (.env, etc.)
 ├── package.json
